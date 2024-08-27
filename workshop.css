@@ -1,0 +1,27 @@
+*{
+    background-color: bisque;
+}
+#sign{
+    background-color: black;
+    color: white;
+}
+.pep{
+    float: right;
+}
+#para{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    padding-top: 5%;
+}
+.txt{
+    border-radius: 40%;
+}
+.nav b{
+    font-size: x-large;
+}
+.logo p{
+    text-align: center;
+}
+.foot{
+    float:right;
+}
